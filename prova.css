@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+header{
+    display: flex;
+    background-image:linear-gradient(130deg,#606f7d, #8e9dab ) ;
+}
