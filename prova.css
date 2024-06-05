@@ -73,8 +73,8 @@ header span{
 }
 
 .banner img{
-   
 
+   
 }
 
 .abaixo_do_banner{
@@ -137,28 +137,35 @@ header span{
 .coluna3{
     background-color: #b57edc;
     margin: 20px;
+    text-align: justify;
+    text-align: center;
 }
 
 
 .coluna4{
     
     background-color: #dbb6ee;
+    text-align: justify;
+    text-align: center;
     
 
    
 }
 
 .coluna4 img{
-    margin-left: 95px;
+  
     margin-top: 20px;
     
    
+    
    }
 
 .coluna5{
    
     background-color: #fff0ff;
     margin:20px ;
+    text-align: justify;
+    text-align: center;
 }
 
 .coluna5 img{
@@ -171,3 +178,28 @@ header span{
     margin-top: 50px;
     display: flex;
 }   
+
+footer{
+   margin-top: 60px;
+   height: 400px;
+   margin-left: -50px;
+   
+
+}
+
+.footerimg{
+    display: flex;
+    
+    
+    
+}
+
+.footerimg2{
+    display: flex;
+    margin-top: 30px;
+   
+}
+
+footer img{
+   margin-left: 20px;
+}
